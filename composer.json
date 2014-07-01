@@ -1,5 +1,5 @@
 {
-    "name": "pingpong/auth2",
+    "name": "dayed/auth2",
     "description": "Laravel 4 - Multi Auth With Password Reminder",
     "keywords": ["auth", "multiauth", "auth2", "laravel", "pingpong"],
     "license": "MIT",
